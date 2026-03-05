@@ -40,7 +40,8 @@
 - [ ] CONSTRUCTION - Build and Test
 
 ## Current Status
-- **Lifecycle Phase**: INCEPTION
-- **Current Stage**: Workflow Planning Complete
-- **Next Stage**: Functional Design (Unit 1: Backend API)
-- **Status**: 사용자 승인 대기 중
+- **Lifecycle Phase**: CONSTRUCTION
+- **Current Stage**: Functional Design — Unit 1: Customer Backend
+- **Current Step**: 질문 답변 대기 중
+- **Next Stage**: Functional Design — Unit 2: Admin Backend
+- **Status**: 사용자 답변 대기 중
