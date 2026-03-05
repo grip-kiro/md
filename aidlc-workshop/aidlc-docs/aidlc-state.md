@@ -41,7 +41,7 @@
 
 ## Current Status
 - **Lifecycle Phase**: CONSTRUCTION
-- **Current Stage**: Functional Design — Unit 1: Customer Backend
-- **Current Step**: 질문 답변 대기 중
-- **Next Stage**: Functional Design — Unit 2: Admin Backend
-- **Status**: 사용자 답변 대기 중
+- **Current Stage**: Functional Design — Unit 4: Admin App
+- **Current Step**: Step 6: 사용자 승인 대기
+- **Next Stage**: Code Generation
+- **Status**: 사용자 승인 대기

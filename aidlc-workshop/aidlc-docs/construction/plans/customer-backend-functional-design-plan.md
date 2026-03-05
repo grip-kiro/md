@@ -12,7 +12,7 @@
 - [x] Step 3: 도메인 엔티티 설계 (`domain-entities.md`)
 - [x] Step 4: 비즈니스 로직 모델 설계 (`business-logic-model.md`)
 - [x] Step 5: 비즈니스 규칙 정의 (`business-rules.md`)
-- [ ] Step 6: 사용자 승인
+- [x] Step 6: 사용자 승인 ✅ (2026-03-05)
 
 ## 질문 (Clarification Questions)
 

@@ -206,3 +206,18 @@
 **Context**: Functional Design Unit 1 - 산출물 생성 완료, 사용자 승인 대기 중
 
 ---
+
+## CONSTRUCTION - Functional Design Unit 1: Customer Backend (승인)
+**Timestamp**: 2026-03-05T10:10:00Z
+**User Input**: "Unit2로 넘어가자"
+**AI Response**: Unit 1 Customer Backend Functional Design 승인 확정. Unit 2 Admin Backend Functional Design 시작.
+**Context**: Functional Design Unit 1 승인 완료, Unit 2 진행
+
+---
+
+## CONSTRUCTION - Functional Design Unit 2: Admin Backend (질문 생성)
+**Timestamp**: 2026-03-05T10:12:00Z
+**AI Response**: Functional Design Unit 2 시작. Admin Backend 컨텍스트 분석 완료. 15개 스토리(US-18~19, US-20~22, US-24~33) 범위 확인. 비즈니스 로직 설계를 위한 명확화 질문 6개 생성. admin-backend-functional-design-plan.md 저장.
+**Context**: Functional Design Unit 2 - Step 2 질문 생성 완료, 사용자 답변 대기 중
+
+---
